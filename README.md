@@ -1,2 +1,5 @@
 MMOG
 ====
+Online Leave Management System (OLMS) is a web based application that can be accessed throughout the organization or a Department to reduce work load. This project’s main idea is to develop an Online Leave Management System which will maintain faculty leaves and other information about leaves. Online Leave Management System will reduce paper work and maintains record in more efficient way. At the same time, the OLMS ensures that all leave application and request are accurately accounted so that staffs can apply, approve and view leave records without the difficulties and delay through admin (Principal/HOD).  
+This system can be used to automate the workflow of leave applications and their approvals/rejection. In OLMS Admin send Leave status to the employee through email or SMS whether his/her leave is approved/rejected & also generate report for employee consumed leave, remaining leave, status of leave. Admin generate report in various manner like according to employee, designation wise, department wise etc.
+The OLMS has main important features like email notification & SMS alert for displaying leave status (approve/reject) in this system.
